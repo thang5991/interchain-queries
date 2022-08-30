@@ -1,7 +1,7 @@
 default_chain: stride-testnet
 chains:
   gaia-testnet:
-    key: cosmos1pk6rlfywadgl8vlewrdeh767cfz4x7grstljyf
+    key: wallet
     chain-id: GAIA
     rpc-addr: http://127.0.0.1:23657
     grpc-addr: http://127.0.0.1:23090
